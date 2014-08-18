@@ -9,10 +9,7 @@
     }
   },
   "permissions": [
-  "audioCapture",
-  "audio"
+  "audioCapture"
 ],
-   "bluetooth": { },
   "icons": { "16": "logo16.png", "128": "logo128.png" }
 }
-

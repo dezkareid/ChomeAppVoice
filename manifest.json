@@ -1,0 +1,18 @@
+{
+  "name": "Chrome App Voice Demo",
+  "description": "Chrome App que usa el reconocimiento de voz para saludar",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["js/background.js"]
+    }
+  },
+  "permissions": [
+  "audioCapture",
+  "audio"
+],
+   "bluetooth": { },
+  "icons": { "16": "logo16.png", "128": "logo128.png" }
+}
+
